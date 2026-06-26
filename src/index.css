@@ -18,7 +18,6 @@ html, body {
   background-color: var(--color-noir); 
   color: var(--color-powder); 
   -webkit-font-smoothing: antialiased;
-  overflow-x: hidden;
   position: relative;
 }
 
